@@ -11,7 +11,7 @@
 ---
 
 ### 📸 Profile Picture
-<img src="dy.JPG" alt="Profile picture" width="200" style="border-radius:50%"/>
+<img src="dy.JPG.JPG" alt="Profile picture" width="200" style="border-radius:50%"/>
 
 ---
 
